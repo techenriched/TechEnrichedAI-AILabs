@@ -1,0 +1,6 @@
+{
+  "name": "TECHENRICHED.AI",
+  "description": "The Cinematic Frontier - Experience Artificial Intelligence through cinematic storytelling, benchmark battles, and immersive visual query learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
